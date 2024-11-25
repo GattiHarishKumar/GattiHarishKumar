@@ -1,5 +1,12 @@
-# 💫 About Me:
-👋 Hi, I’m @GattiHarishKumar<br>👀 I’m interested in data analysis, machine learning, and web development.<br>🌱 I’m currently learning Spring Boot, ReactJS, and advanced Python for data science applications.<br>💞️ I’m looking to collaborate on innovative projects that leverage my skills in Java, Python, and data analytics.<br>📫 How to reach me: harishkumargatti@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I enjoy photography, drawing, and exploring new places on road trips.
+💫 About Me:
+👋 Hi, I’m Harish Kumar Gatti.
+👀 I’m interested in Java development and database management.
+🌱 I’m learning Advanced Java, Spring Boot, and SQL.
+💻 I have experience building Java applications with backend and database integration.
+💞️ I want to work on Java projects and backend systems.
+📫 How to reach me : harishkumargatti@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I enjoy coding challenges and exploring Java tools.
 
 
 ## 🌐 Socials:
