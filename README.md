@@ -1,5 +1,13 @@
-## 💫 About Me:
-👋 Hi, I’m Harish Kumar Gatti.👀 I’m interested in Java development and database management.🌱 I’m learning Advanced Java, Spring Boot, and SQL.💻 I have experience building Java applications with backend and database integration.💞️ I want to work on Java projects and backend systems.📫 How to reach me : harishkumargatti@gmail.com😄 Pronouns: He/Him⚡ Fun fact: I enjoy coding challenges and exploring Java tools.
+## 💫 About Me
+
+- 👋 Hi, I’m **Harish Kumar Gatti**.
+- 👀 I’m interested in **Java development** and **database management**.
+- 🌱 I’m learning **Advanced Java**, **Spring Boot**, and **SQL**.
+- 💻 I have experience building **Java applications** with backend and database integration.
+- 💞️ I want to work on **Java projects** and **backend systems**.
+- 📫 How to reach me: [harishkumargatti@gmail.com](mailto:harishkumargatti@gmail.com)
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I enjoy **coding challenges** and exploring **Java tools**.
 
 
 ## 🌐 Socials:
