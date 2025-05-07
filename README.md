@@ -1,13 +1,15 @@
 ## 💫 About Me
 
 - 👋 Hi, I’m **Harish Kumar Gatti**.
-- 👀 I’m interested in **Java development** and **database management**.
-- 🌱 I’m learning **Advanced Java**, **Spring Boot**, and **SQL**.
-- 💻 I have experience building **Java applications** with backend and database integration.
-- 💞️ I want to work on **Java projects** and **backend systems**.
+- 💻 I'm a **Java and Python developer** passionate about backend systems and database integration.
+- 🌱 Currently learning **Advanced Java**, **Spring Boot**, and **SQL** to build scalable full-stack applications.
+- 📚 I’ve built projects like a **User Management System** using Spring Boot, React.js, and MySQL.
+- 🛠️ Tech Stack: **Java**, **Python**, **Spring Boot**, **React**, **SQL**, **MySQL**, **JDBC**, **JSP**, **Git**.
+- 💞️ I’m looking for opportunities to work on **backend** and **full-stack development** projects.
 - 📫 How to reach me: [harishkumargatti@gmail.com](mailto:harishkumargatti@gmail.com)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I enjoy **coding challenges** and exploring **Java tools**.
+- ⚡ Fun fact: I enjoy solving **coding challenges** and exploring tools in the **Java and Python ecosystems**.
+
 
 
 ## 🌐 Socials:
