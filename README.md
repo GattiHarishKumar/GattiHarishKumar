@@ -72,10 +72,8 @@ Java · Spring Boot · React · TypeScript · REST APIs · Full-Stack Developmen
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gattiharishkumar&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Harish's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gattiharishkumar&layout=compact&hide_border=true" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gattiharishkumar&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gattiharishkumar&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Harish's GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gattiharishkumar&layout=compact&hide_border=true" alt="Top Languages"/>
 
 </div>
 
