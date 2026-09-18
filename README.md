@@ -7,11 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Full-Stack+Development+%7C+REST+APIs;AI+Engineering+%7C+RAG+%7C+AI+Agents;Building+clean%2C+scalable+software" alt="Typing intro"/>
 
 [![Portfolio](https://img.shields.io/badge/GitHub-GattiHarishKumar-181717?style=flat-square&logo=github)](https://github.com/GattiHarishKumar)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/harish-kumar-gatti)
-
 [![Email](https://img.shields.io/badge/Email-harishkumargatti%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harishkumargatti@gmail.com)
-
 [![Profile Views](https://komarev.com/ghpvc/?username=gattiharishkumar&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/gattiharishkumar)
 
 </div>
