@@ -83,3 +83,7 @@ Java · Spring Boot · React · TypeScript · REST APIs · Full-Stack Developmen
 📫 **Reach me at** [harishkumargatti@gmail.com](mailto:harishkumargatti@gmail.com)
 
 </div>
+
+---
+
+<div align="center"> ### `Build. Learn. Ship. Repeat. 🚀` <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer" width="100%" alt="Footer"/> </div>
