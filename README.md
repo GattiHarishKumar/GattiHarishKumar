@@ -15,6 +15,16 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gattiharishkumar&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
 ### 🔭 What I'm working on
 Building **AI-powered full-stack applications** — combining Java/Spring backends with modern React/TypeScript frontends.
 ### 🌱 Currently learning
@@ -49,17 +59,6 @@ Java · Spring Boot · React · TypeScript · REST APIs · Full-Stack Developmen
 **Cloud, DevOps & Tools**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="36" height="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="36" height="36"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="36" height="36"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="36" height="36"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="36" height="36"/>
-
-</div>
-
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gattiharishkumar&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
